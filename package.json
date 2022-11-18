@@ -1,0 +1,30 @@
+{
+  "name": "starter-template",
+  "version": "1.0.0",
+  "description": "A starter template for all of my hardhat projects",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "npx hardhat compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrutKode/starter-kit.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "Bitcoin",
+    "Ethereum",
+    "Hardhat",
+    "Truffle",
+    "Decentralisation",
+    "DeFi",
+    "Metaverse",
+    "Web3"
+  ],
+  "author": "BrutKode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrutKode/starter-kit/issues"
+  },
+  "homepage": "https://github.com/BrutKode/starter-kit#readme"
+}
